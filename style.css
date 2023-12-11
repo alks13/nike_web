@@ -1,0 +1,56 @@
+
+.body {
+   background-color: white;
+   
+}
+
+.container {
+   margin: 45px 165px;
+
+}
+
+.header {
+   width: 1277px;
+   height: 55px;
+
+}
+
+.container-nav{
+   background-color: #2D2B2C;
+   width: 100%;
+   height: 97px;
+   flex-shrink: 0;
+}
+
+.nav-shoes {
+   display: inline-flex;
+   align-items: flex-start;
+   gap: 350px;
+   margin: 40px 480px;
+   font-size: 16px;
+   color: blanchedalmond;
+}
+
+a {
+   font-family: Montserrat;
+   font-size: 16px;
+   color: azure;
+   text-decoration: none;
+}
+
+.a-purple {
+   color: pink;
+}
+
+.h1{
+   text-align: center;
+   margin: 60px;
+   color: var(--main_black, #2D2B2C);
+   font-family: Montserrat;
+   font-size: 28px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: 56px;
+   letter-spacing: -1.6px;
+}
+
