@@ -5,6 +5,8 @@
 body{
    margin: 0;
    padding: 0;
+   display: flex;
+   flex-direction: column;
 }
 
 
@@ -13,5 +15,29 @@ body{
    height: 100vh;
 }
 
+   .container {
+      flex: 1; /* Allow the container to grow and take available space */
+   }
 
+   .just-do-it-img {
+      margin-top: 112px;
+      width: 100%;
+      align-self: flex-end; /* Align the image to the bottom */
+   }
 
+.about-nike-descr{
+   width: 700px;
+   height: 504px;
+   color:#2D2B2C;
+font-family: Montserrat;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 133.333% */
+margin-right: 62px;
+}
+
+.about-nike-wrapper{
+   display: flex;
+   flex-direction: row;
+}
