@@ -1,0 +1,17 @@
+@import url(header.css);
+@import url(buy-now.css);
+@import url(featured.css);
+
+body{
+   margin: 0;
+   padding: 0;
+}
+
+
+.container {
+   margin: 45px 160px 0px 160px;
+   height: 100vh;
+}
+
+
+

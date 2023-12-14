@@ -1,0 +1,56 @@
+header{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+   }
+   
+   .left-links-wrapper{
+      width: 305px;
+      height: 20px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      
+   }
+   
+   .header-link a{
+      text-decoration: none;
+      color: #000;
+      padding-right: 72px;
+      font-family: Montserrat;
+      font-size: 16px;
+      font-weight: 600;
+   
+   
+   }
+   .header-link:last-child{
+      padding-right: 0;
+   }
+   
+   
+   .search-icon img{ 
+      width: 40px;
+      height: 41.505px;
+   }
+   .account-icon{
+      margin-right: 50px;
+      margin-left: 39px;
+   }
+   
+   .logo{
+      align-self: center;
+   }
+   
+   .search-icon img,
+   .account-icon img,
+   .basket-icon img {
+      height: 100%; /* Настроим высоту изображений на 100% */
+      vertical-align: middle; /* Вертикальное выравнивание по середине */
+   }
+   
+   .right-links-wrapper {
+      display: flex;
+      flex-direction: row;
+      align-items: center; /* Выравнивание по центру по вертикали */
+   }
