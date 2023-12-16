@@ -1,0 +1,20 @@
+.categories-slider-and-title-wrapper{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+
+}
+
+.categories{
+      display: flex;
+      flex-direction: column;
+}
+
+.categories-items{
+      display: flex;
+      flex-direction: row;
+}
+.categories-wrapper{
+      display: flex;
+      
+}
