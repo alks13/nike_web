@@ -19,7 +19,7 @@ body{
       flex: 1; /* Allow the container to grow and take available space */
    }
 
-   .just-do-it-img {
+   .just-do-it-img img {
       margin-top: 112px;
       width: 100%;
       align-self: flex-end; /* Align the image to the bottom */
