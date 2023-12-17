@@ -1,0 +1,6 @@
+<svg width="100" height="32" viewBox="0 0 100 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="slider">
+<path id="back" d="M19 2L2 16L19 30" stroke="#2D2B2C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="forward" d="M81 30L98 16L81 2" stroke="#2D2B2C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
