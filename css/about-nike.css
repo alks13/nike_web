@@ -1,3 +1,7 @@
+.about-nike{
+   margin-top: 130px;
+}
+
 .about-nike-descr{
       width: 700px;
       height: 504px;
@@ -16,12 +20,7 @@
       margin-bottom: 130px;
    }
    
-   /* .read-more{
-      text-decoration: none;
-      color: #EBAAE5;
-      font-family: Montserrat;
-      font-size: 24px;
-      font-style: normal;
-      font-weight: 700;
-      line-height: 150%; /* 36px */
-   }   */
+   .read-more{
+      position: absolute;
+      left: 9%;
+   }

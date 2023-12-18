@@ -3,21 +3,24 @@
 @import url(featured.css);
 @import url(about-nike.css);
 @import url(categories.css);
+@import url(app.css);
+@import url(footer.css);
 
 body{
    margin: 0;
    padding: 0;
    display: flex;
    flex-direction: column;
+   overflow-x: hidden;
 }
 
 
 .container {
-   margin: 45px 160px 0px 160px;
+   margin: 0px 160px 0px 160px;
    height: 100vh;
    flex: 1;
 }
-
+   
 .just-do-it-img img {
       margin-top: 112px;
       width: 100%;

@@ -1,0 +1,6 @@
+.footer{
+      display: flex;
+      flex-direction: row;
+      background:#2D2B2C;
+      padding: 0, 215px 0px 215px;
+}

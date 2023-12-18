@@ -28,7 +28,7 @@
       flex-direction: row;
       justify-content: space-between;
    }
-   .buy-now-button{
+   .buy-now-button, .button{
       display: flex;
       align-items: center;
       

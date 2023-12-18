@@ -13,8 +13,43 @@
 .categories-items{
       display: flex;
       flex-direction: row;
+      margin-top: 60px;
+      justify-content: space-between;
+      position: relative;
 }
 .categories-wrapper{
       display: flex;
       
 }
+
+.categories-item{
+      margin-right: 15px;
+}
+
+.categories-item:last-child{
+      margin-right: 0;
+      
+}
+
+.categories-item{
+      margin-left: 12px;
+      width: 615px;
+      height: 398px;
+}
+
+.categories-item-title{
+      position: relative;
+      left:40%;
+
+      bottom: 50%;
+      color: aliceblue;
+      color:#FFF;
+      font-family: Montserrat;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 56px; /* 175% */
+      letter-spacing: -1.28px;
+      display: inline-block;
+}
+
